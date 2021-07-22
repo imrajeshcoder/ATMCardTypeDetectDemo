@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ATMCardTypeDetectDemo/Pods-ATMCardTypeDetectDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CreditCardForm/CreditCardForm.framework
+${BUILT_PRODUCTS_DIR}/Stripe/Stripe.framework
+${BUILT_PRODUCTS_DIR}/StripeCore/StripeCore.framework

@@ -1,0 +1,6 @@
+framework module Pods_ATMCardTypeDetectDemo_ATMCardTypeDetectDemoUITests {
+  umbrella header "Pods-ATMCardTypeDetectDemo-ATMCardTypeDetectDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
